@@ -35,13 +35,6 @@
 | **Databases** | PostgreSQL, MySQL, MongoDB, DynamoDB |
 | **DevOps** | Docker, AWS, GitHub Actions, ArgoCD |
 | **AI/ML** | OpenAI API, Tensorflow, Numpy, Sci-Kit Learn, Pandas |
-
----
-
-## 🏗️ Currently Building
-
-🧠 **Autonomous AI Agent Systems** — integrates memory, tools, and adaptive reasoning using FastAPI + Spring AI.  
-
 ---
 
 ## 📫 Let's Connect
@@ -49,13 +42,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-burnsworth-a25823146)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/RyanBurnsworth)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanburnsworth@gmail.com)
-
 ---
----
-
-## 🧩 GitHub Stats
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanBurnsworth&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanBurnsworth&layout=compact&theme=radical)
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
