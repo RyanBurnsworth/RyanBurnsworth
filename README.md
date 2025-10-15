@@ -21,8 +21,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**ChatLoopa**](https://github.com/RyanBurnsworth/chatloopa) | Random 1-on-1 WebRTC video chat app with analytics | Angular, WebRTC, Node.js |
-| [**AI Agent Framework**](https://github.com/RyanBurnsworth/mlagent) | Modular Python framework for autonomous LLM agents | Python, FastAPI, LangGraph |
+| [**Addy AI**](https://github.com/ryanburnsworth/AddyAI) | An AI agent for chatting with your Google Ads | Typescript, NestJS, React, Google Ads API, Postgres |
+| [**ChatLoopa**](https://github.com/RyanBurnsworth/chatloopa) | Random 1-on-1 WebRTC video chat app with analytics | Angular, WebRTC, NestJS. MongoDB |
+| [**Machine Learning Agent**](https://github.com/RyanBurnsworth/mlagent) | A agentic that performs ML using Kaggle's API | Python, FastAPI, Java, Spring AI, Kaggle API, Postgres |
 ---
 
 ## 🛠️ Tools & Technologies
@@ -32,8 +33,8 @@
 | **Frontend** | React, Angular, Tailwind, TypeScript |
 | **Backend** | Spring Boot, NestJS, FastAPI |
 | **Databases** | PostgreSQL, MySQL, MongoDB, DynamoDB |
-| **DevOps** | Docker, AWS, GitHub Actions |
-| **AI/ML** | OpenAI API, LangChain, PyTorch, Pandas |
+| **DevOps** | Docker, AWS, GitHub Actions, ArgoCD |
+| **AI/ML** | OpenAI API, Tensorflow, Numpy, Sci-Kit Learn, Pandas |
 
 ---
 
