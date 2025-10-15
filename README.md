@@ -11,10 +11,15 @@
 - 🌱 Learning: **Advanced LLM integration with Spring AI**
 - ⚙️ Tech Stack:  
   `Java` · `TypeScript` · `Python` · `NestJS` · `Spring Boot` · `React` · `Angular`  
-  `PostgreSQL` · `MongoDB` · `MySQL` · `AWS` · `Docker`  
-- 🧩 Interested in: AI, data pipelines, and real-time applications
-- 🏡 Based in: *Fort Wayne, IN*
-- 💬 Ask me about: Scalable backend architectures, Stripe integration, or FHIR/HL7 APIs
+  `NoSQL Databases` . `SQL Databases` · `AWS` · `Docker`  
+- 🧩 Interested in: Building scalable solutions, Integrating with AI, Healthcare Systems
+- 🏡 Based in: *Fort Wayne, Indiana*
+- 💬 Ask me about: Scalable backend engineering, AI agent development, 
+---
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-burnsworth-a25823146)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanburnsworth@gmail.com)
 ---
 
 ## 🚀 Projects
@@ -35,12 +40,6 @@
 | **Databases** | PostgreSQL, MySQL, MongoDB, DynamoDB |
 | **DevOps** | Docker, AWS, GitHub Actions, ArgoCD |
 | **AI/ML** | OpenAI API, Tensorflow, Numpy, Sci-Kit Learn, Pandas |
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-burnsworth-a25823146)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanburnsworth@gmail.com)
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
