@@ -26,9 +26,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**Addy AI**](https://github.com/ryanburnsworth/AddyAI) | An AI agent for chatting with your Google Ads | Typescript, NestJS, React, Google Ads API, Postgres |
+| [**Addy AI**](https://github.com/ryanburnsworth/AddyAI) | An AI agent for chatting with your Google Ads | Typescript, NestJS, React, Python, Flask, Google Ads API, Postgres |
 | [**ChatLoopa**](https://github.com/RyanBurnsworth/chatloopa) | Random 1-on-1 WebRTC video chat app with analytics | Angular, WebRTC, NestJS. MongoDB |
-| [**Machine Learning Agent**](https://github.com/RyanBurnsworth/mlagent) | A agentic that performs ML using Kaggle's API | Python, FastAPI, Java, Spring AI, Kaggle API, Postgres |
+| [**Machine Learning Agent**](https://github.com/RyanBurnsworth/mlagent) | A agentic AI system that creates ML notebooks using Kaggle's API | Python, FastAPI, Java, Spring AI, Kaggle API, Postgres |
 ---
 
 ## 🛠️ Tools & Technologies
